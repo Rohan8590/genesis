@@ -6,9 +6,10 @@
 */
 
 :root{
-  --theme_orange: #00E2E9; /*ff4b1f*/
-  --theme_purple: #053352;
-  --theme_dark_purple:#140C1D; /*#1b1126;*/ 
+  --theme_grey: #00E2E9; /*ff4b1f*/
+  --theme_yellow: #F0EC57;
+  --theme_dark_blue:#17183B; /*#1b1126;*/ 
+  --theme_cyan:#1D7874;
 }
 
 @media (min-width: 1400px) {
