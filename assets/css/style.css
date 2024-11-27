@@ -562,6 +562,11 @@ h6 {
   padding: 0 15px;
 }
 
+.hero-container {
+  background-image: url(../img/main.jpg);
+  background-size: cover;
+}
+
 @media (max-width: 991px) {
   #hero .hero-container {
     top: 70px;
@@ -759,7 +764,7 @@ h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-  background: url("../img/about-bg.jpg");
+  background: url("../img/bg1.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -816,7 +821,7 @@ h6 {
 
 /* For event highlight */
 #events {
-  background: url("../img/events-bg.JPG");
+  background: url("../img/bg2.JPG");
   background-size: cover;
   /* background-color: rgb(171, 171, 171); */
   overflow: hidden;
