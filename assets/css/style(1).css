@@ -11,6 +11,7 @@
   --theme_dark_purple:#140C1D; /*#1b1126;*/ 
 }
 
+
 @media (min-width: 1400px) {
   #events .container, #events .container-lg, #events .container-md, #events .container-sm, #events .container-xl, .container-xxl {
       max-width: 1440px;
