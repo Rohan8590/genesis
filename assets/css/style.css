@@ -1892,6 +1892,10 @@ h6 {
   padding: 10px;
 }
 
+#container-end a {
+  color: #eee;
+}
+
 .row-80 {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
